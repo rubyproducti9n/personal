@@ -1,0 +1,10 @@
+[{
+  relation [delegate_permissioncommon.handle_all_urls],
+  target {
+    namespace android_app,
+    package_name com.rubyproducti9n.bestieos,
+    sha256_cert_fingerprints [
+      96:53:9D:B8:FE:67:20:69:B8:8B:FC:3C:E3:3E:7E:32:22:6A:F1:9B:D6:32:ED:F8:40:A8:E8:1B:DD:6C:4A:F7
+    ]
+  }
+}]
